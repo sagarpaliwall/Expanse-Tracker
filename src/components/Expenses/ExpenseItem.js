@@ -5,7 +5,7 @@ import Card from '../UI/Card';
 
 
    const ExpenseItem=(props)=>{
- 
+      console.log("Hello");
   
        return (
                <Card className='expense-item'>
